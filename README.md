@@ -20,6 +20,7 @@ I propose we just hold the stick still, and have a linear actuator move the stan
 - Bulky
 - Heavier
 - Requires more power
+- The physical size of the laser receiver affects the total scan area. And user needs to set the max extension so that it doesn't crash the laser receiver into the enclosure.
 - Scanning is slower. 1ft per second is acceptable
   - Scanning speed largely depends on how quickly the laser receiver can detect the laser. 
 - The UI is more complicated. (Calibrate, Jog, "Home", Scan)
