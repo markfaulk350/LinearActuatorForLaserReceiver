@@ -34,6 +34,7 @@ I propose we just hold the stick still, and have a linear actuator move the stan
 - No creep. If bumped, powered off, etc. Belt drive probably wont work.
 - 2 to 3 ft scan area
 - Total weight under 5 pounds. Loose requirement.
+- Needs to work in a dusty, hot environment. 
 
 # Laser Receiver Dimensions
 - Topcon LS-80L (NEW Model)
