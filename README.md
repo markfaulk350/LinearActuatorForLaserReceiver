@@ -43,3 +43,18 @@ I propose we just hold the stick still, and have a linear actuator move the stan
   - x in (Tall) | x in (Wide) | x in (Thick) | x grams (Weight)
 - Topcon LS-70B (OLD Model)
   - 6.5 in (Tall) | 3 in (Wide) | 1.05 in (Thick) | 220 grams (Weight)
+ 
+
+# Parts List
+- [$50 | StepperOnline | ESS17-07](https://www.omc-stepperonline.com/ess-series-0-60nm-85oz-in-nema-17-integrated-closed-loop-stepper-servo-motor-24-36vdc-1000cpr-ess17-07)
+  - [3D Model .IGS](https://www.omc-stepperonline.com/index.php?route=product/product/get_file&file=1266/ESS17-07.IGS)
+  - Input Voltage: 24 - 36VDC
+  - Holding Torque: 0.6Nm(85oz.in)
+  - Weight: 1.2 lbs (531g)
+  - Body Length: 2.36in (60mm)
+  - Logic Input Voltage: 5V but will likely work with 3.3v
+  - There is a smaller version, 0.25 lbs lighter and 1/2 inch shorter. 🔥 It has less low end torque, but better torque at higher sppeds 🔥 [ESS17-04](https://www.omc-stepperonline.com/ess-series-0-48nm-68oz-in-nema-17-integrated-closed-loop-stepper-servo-motor-24-36vdc-1000cpr-ess17-04)
+- [$160 | Makita 40V XGT 2.5Ah](https://a.co/d/japQ2qb)
+  - 1.7 lbs (0.77 kg)
+  - needs a switching voltage regulator to pull down to 36V
+- Makita 40V Adapter Plate 
