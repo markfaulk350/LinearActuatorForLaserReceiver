@@ -2,6 +2,7 @@
 
 # Todo
 - Order a linear rail
+- Order 2mm right angle pcb connector and male connector w wires
 - Order M18 adapter
 - Order or make a 5mm to 3/8 coupler
 - Order limit switches or something like them
