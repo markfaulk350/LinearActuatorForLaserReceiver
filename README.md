@@ -61,6 +61,7 @@ I propose we just hold the stick still, and have a linear actuator move the stan
   - [3D Model .IGS](https://www.omc-stepperonline.com/index.php?route=product/product/get_file&file=1265/ESS17-04.IGS)
   - Input Voltage: 24 - 36VDC
   - Weight: 419g
+  - [SpecSheet](file:///Users/markfaulkner/Downloads/ESS17-04_07_Manual.pdf)
 - $83 | [M18 HIGH OUTPUT CP3.0](https://www.milwaukeetool.com/products/48-11-1835)
   - Weight: 595g
 - $8 | [M18 Adapter | Amazon](https://a.co/d/7E8KwFV)
