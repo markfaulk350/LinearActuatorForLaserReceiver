@@ -2,6 +2,7 @@
 
 # Todo
 - Order a linear rail
+- Order M18 adapter
 - Order or make a 5mm to 3/8 coupler
 - Order limit switches or something like them
 - Order Al extrusion and bolts and hardware to attach things
@@ -61,5 +62,18 @@ I propose we just hold the stick still, and have a linear actuator move the stan
   - Weight: 419g
 - $83 | [M18 HIGH OUTPUT CP3.0](https://www.milwaukeetool.com/products/48-11-1835)
   - Weight: 595g
-- 
+- $8 | [M18 Adapter | Amazon](https://a.co/d/7E8KwFV)
+  - Weight: na
+- $ | []()
+  - Weight: na
+- $ | []()
+  - Weight: na
+- $ | []()
+  - Weight: na
+- $ | []()
+  - Weight: na
+- $ | []()
+  - Weight: na
+- $ | []()
+  - Weight: na
 
