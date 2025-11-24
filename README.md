@@ -55,12 +55,11 @@ I propose we just hold the stick still, and have a linear actuator move the stan
  
 
 # Parts List
-- [$50 | StepperOnline | ESS17-07](https://www.omc-stepperonline.com/ess-series-0-60nm-85oz-in-nema-17-integrated-closed-loop-stepper-servo-motor-24-36vdc-1000cpr-ess17-07)
-  - [3D Model .IGS](https://www.omc-stepperonline.com/index.php?route=product/product/get_file&file=1266/ESS17-07.IGS)
+-  $71 | [StepperOnline | ESS17-04](https://www.omc-stepperonline.com/ess-series-0-48nm-68oz-in-nema-17-integrated-closed-loop-stepper-servo-motor-24-36vdc-1000cpr-ess17-04)
+  - [3D Model .IGS](https://www.omc-stepperonline.com/index.php?route=product/product/get_file&file=1265/ESS17-04.IGS)
   - Input Voltage: 24 - 36VDC
-  - Holding Torque: 0.6Nm(85oz.in)
-  - Weight: 1.2 lbs (531g)
-  - Body Length: 2.36in (60mm)
-  - Logic Input Voltage: 5V but will likely work with 3.3v
-  - There is a smaller version, 0.25 lbs lighter and 1/2 inch shorter. 🔥 It has less low end torque, but better torque at higher sppeds 🔥 [ESS17-04](https://www.omc-stepperonline.com/ess-series-0-48nm-68oz-in-nema-17-integrated-closed-loop-stepper-servo-motor-24-36vdc-1000cpr-ess17-04)
+  - Weight: 419g
+- $83 | [M18 HIGH OUTPUT CP3.0](https://www.milwaukeetool.com/products/48-11-1835)
+  - Weight: 595g
+- 
 
