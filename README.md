@@ -70,9 +70,9 @@ I propose we just hold the stick still, and have a linear actuator move the stan
   - Weight: 25g, 1.5 x 1.5 x 0.5 inches
   - Output Voltage: 9.6 to 48V
   - [SpecSheet](https://product.tdk.com/en/search/power/switching-power/dc-dc-converter/info?part_no=i7C4W008A120V-001-R)
-- $ | []()
-  - Weight: na
-- $ | []()
+- $40 | [Roton Torqspline Lead Screw, 3/8 X 1.000](https://www.roton.com/product/torqspline-steel-screw-right-60998/)
+  - Weight: 368g for all 36 inches
+- $20 | [Roton Torqspline Flange Nut, 3/8 X 1.000, RH, Plastic](https://www.roton.com/product/torqspline-plastic-flange-nut-right-92054/)
   - Weight: na
 - $ | []()
   - Weight: na
