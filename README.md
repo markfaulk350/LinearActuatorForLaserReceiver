@@ -1,5 +1,14 @@
 # Linear Actuator For Laser Receiver
 
+# Todo
+- Order a linear rail
+- Order or make a 5mm to 3/8 coupler
+- Order limit switches or something like them
+- Order Al extrusion and bolts and hardware to attach things
+- Order a bearing? to support the end of the lead screw and 3d print that structure
+- Model and 3d print a carriage that connects the linear rail to the lead screw nut.
+- 3d print a qd mount for the laser receiver
+
 ## Custom Sensor Array vs Standard Laser Receiver on Linear Actuator
 A Custom CCD or photodiode array is going to be too expensive, time consuming, and it might not work with every laser. 
 
@@ -54,7 +63,4 @@ I propose we just hold the stick still, and have a linear actuator move the stan
   - Body Length: 2.36in (60mm)
   - Logic Input Voltage: 5V but will likely work with 3.3v
   - There is a smaller version, 0.25 lbs lighter and 1/2 inch shorter. 🔥 It has less low end torque, but better torque at higher sppeds 🔥 [ESS17-04](https://www.omc-stepperonline.com/ess-series-0-48nm-68oz-in-nema-17-integrated-closed-loop-stepper-servo-motor-24-36vdc-1000cpr-ess17-04)
-- [$160 | Makita 40V XGT 2.5Ah](https://a.co/d/japQ2qb)
-  - 1.7 lbs (0.77 kg)
-  - needs a switching voltage regulator to pull down to 36V
-- Makita 40V Adapter Plate 
+
