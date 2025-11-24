@@ -65,8 +65,10 @@ I propose we just hold the stick still, and have a linear actuator move the stan
   - Weight: 595g
 - $8 | [M18 Adapter | Amazon](https://a.co/d/7E8KwFV)
   - Weight: na
-- $ | []()
-  - Weight: na
+- $57 | [300W Boost Converter | I7C4W008A120V-001-R | Digikey](https://www.digikey.com/en/products/detail/tdk-lambda/I7C4W008A120V-001-R/11697408)
+  - Weight: 25g, 1.5 x 1.5 x 0.5 inches
+  - Output Voltage: 9.6 to 48V
+  - [SpecSheet](https://product.tdk.com/en/search/power/switching-power/dc-dc-converter/info?part_no=i7C4W008A120V-001-R)
 - $ | []()
   - Weight: na
 - $ | []()
