@@ -56,7 +56,7 @@ I propose we just hold the stick still, and have a linear actuator move the stan
  
 
 # Parts List
--  $71 | [StepperOnline | ESS17-04](https://www.omc-stepperonline.com/ess-series-0-48nm-68oz-in-nema-17-integrated-closed-loop-stepper-servo-motor-24-36vdc-1000cpr-ess17-04)
+- $71 | [StepperOnline | ESS17-04](https://www.omc-stepperonline.com/ess-series-0-48nm-68oz-in-nema-17-integrated-closed-loop-stepper-servo-motor-24-36vdc-1000cpr-ess17-04)
   - [3D Model .IGS](https://www.omc-stepperonline.com/index.php?route=product/product/get_file&file=1265/ESS17-04.IGS)
   - Input Voltage: 24 - 36VDC
   - Weight: 419g
