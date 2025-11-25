@@ -65,7 +65,7 @@ I propose we just hold the stick still, and have a linear actuator move the stan
 - $83 | [M18 HIGH OUTPUT CP3.0](https://www.milwaukeetool.com/products/48-11-1835)
   - Weight: 595g
 - $8 | [M18 Adapter | Amazon](https://a.co/d/7E8KwFV)
-  - Weight: na
+  - Weight: 80g
 - $57 | [300W Boost Converter | I7C4W008A120V-001-R | Digikey](https://www.digikey.com/en/products/detail/tdk-lambda/I7C4W008A120V-001-R/11697408)
   - Weight: 25g, 1.5 x 1.5 x 0.5 inches
   - Output Voltage: 9.6 to 48V
