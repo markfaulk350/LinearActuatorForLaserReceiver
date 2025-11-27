@@ -1,12 +1,12 @@
 # Linear Actuator For Laser Receiver
 
 # Todo
+- Get mounting bolts for the Nema 17 motor
 - Order a linear rail
 - Order 2mm right angle pcb connector and male connector w wires
-- Order M18 adapter
+- Maybe make your own M18 adapter and put all the electronics inside it, boost converter, fuse, arduino, buck converter for arduino, etc.
 - Order or make a 5mm to 3/8 coupler
 - Order limit switches or something like them
-- Order Al extrusion and bolts and hardware to attach things
 - Order a bearing? to support the end of the lead screw and 3d print that structure
 - Model and 3d print a carriage that connects the linear rail to the lead screw nut.
 - 3d print a qd mount for the laser receiver
