@@ -74,10 +74,15 @@ I propose we just hold the stick still, and have a linear actuator move the stan
   - Weight: 368g for all 36 inches
 - $20 | [Roton Torqspline Flange Nut, 3/8 X 1.000, RH, Plastic](https://www.roton.com/product/torqspline-plastic-flange-nut-right-92054/)
   - Weight: na
-- $ | []()
+- $40 | [2x 2040 Aluminum V Slot 4ft | Amazon](https://a.co/d/5IGCPNE)
   - Weight: na
 - $ | []()
   - Weight: na
 - $ | []()
   - Weight: na
+ 
+## Small electronics parts list
+- 47k R + 10k R Voltage divider
+- 1x 0.15uf [Ceramic Capacitor](https://a.co/d/4Orx2Qe)
+- [MP1584EN DC-DC Buck Converter](https://a.co/d/amErUwB)
 
