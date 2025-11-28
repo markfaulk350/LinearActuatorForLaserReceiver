@@ -8,8 +8,6 @@
 - Order 2mm right angle pcb connector and male connector w wires
 - Maybe make your own M18 adapter and put all the electronics inside it, boost converter, fuse, arduino, buck converter for arduino, etc.
 - Order or make a 5mm to 3/8 coupler
-- Order a 3/8 bearing? to support the end of the lead screw and 3d print that structure
-- Model and 3d print a carriage that connects the linear rail to the lead screw nut.
 - 3d print a qd mount for the laser receiver
 
 ## Custom Sensor Array vs Standard Laser Receiver on Linear Actuator
@@ -77,7 +75,7 @@ I propose we just hold the stick still, and have a linear actuator move the stan
   - Weight: na
 - $40 | [2x 2040 Aluminum V Slot 4ft | Amazon](https://a.co/d/5IGCPNE)
   - Weight: na
-- $ | []()
+- $7 | [R6-2RS Bearings 3/8 ID x 7/8 OD x 9/32 | Amazon](https://a.co/d/5ckjm9j)
   - Weight: na
 - $ | []()
   - Weight: na
