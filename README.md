@@ -2,7 +2,8 @@
 
 # Todo
 - See if we can use the DF Robot Voice Recognition to controll the whole thing. Look at the [pre-programmed keywords](https://wiki.dfrobot.com/SKU_SEN0539-EN_Gravity_Voice_Recognition_Module_I2C_UART#Command%20Words%2FWake-up%20Words%20%26amp%3B%20ID%20Table) to see what would work best.
-- Get M3 bolts for the motor. The depth is 4.5mm (0.17 in), so add the thickness of the plate.
+- Get 4x M3 bolts for the motor. The depth is 4.5mm (0.17 in), so add the thickness of the plate. M3 x 0.5 x 8mm is best for a 0.2in plate.
+- Get 3x M3 x 0.5 x 16mm bolts for the lead screw flange nut. Model the carriage so they can thread into the plastic. The flange is 0.19in thick so .6 in or 16mm is probably good. 12mm long might work but just barely, try 16mm at lowes.
 - Order limit switches
 - Order a linear rail. Or see if we can use the 2040 instead with a 3d printed solution.
 - Order 2mm right angle pcb connector and male connector w wires
